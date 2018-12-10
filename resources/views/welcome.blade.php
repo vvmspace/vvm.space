@@ -84,6 +84,10 @@
 
                 <div class="links">
                     <a href="{{ config('app.github', 'https://github.com/larafull/larafull') }}">GitHub</a>
+                    <a href="{{ config('app.vk', 'https://vk.com/it007') }}">VK</a>
+                    <a href="{{ config('app.telegram', 'https://teleg.run/vvmspace') }}">Telegram</a>
+                    <a href="{{ config('app.instagram', 'https://instagram.com/insta.tagil') }}">Instagram</a>
+                    <a href="{{ config('app.twitter', 'https://twitter.com/vvmspace') }}">Twitter</a>
                 </div>
             </div>
         </div>
